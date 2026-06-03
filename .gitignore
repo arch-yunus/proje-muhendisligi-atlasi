@@ -1,0 +1,29 @@
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+
+# OS specific
+.DS_Store
+Thumbs.db
+*.ini
+
+# Project specific
+*.mpp
+*.pod
+*.xml.bak
+*.backup
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Dependencies
+node_modules/
+
+# Output
+dist/
+build/
